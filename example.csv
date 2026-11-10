@@ -1,0 +1,5 @@
+trip,origin,destination,depart,arrive
+Night Local,Harbor,Central,23:50,24:08
+Night Local,Central,Airport,24:10,24:45
+Express,Central,Airport,24:11,24:26
+Late Express,Central,Airport,24:18,24:33
